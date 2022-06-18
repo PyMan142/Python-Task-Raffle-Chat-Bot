@@ -5,7 +5,7 @@ This is a bot for chat memebers to create tasks. Every completed task enters the
 pip install -U twitchio
 Must be python version 3.7+ (Or higher)
 
-#User Commands
+# User Commands
 - !help - List all commands for the users
 - !task [title] - Create a new task - This also enters you into the raffle!
 - !active - Lists your active tasks
@@ -20,7 +20,7 @@ Must be python version 3.7+ (Or higher)
 - !completed [username] - Lists the completed tasks of a user
 - !top [number]- List [number] users who've completed the most tasks
 
-#Admin Commands
+# Admin Commands
 - !helpadmin - List allll the admin commands
 - !alltasks - Return everything about all entries
 - !allactive - Returns all active tasks
