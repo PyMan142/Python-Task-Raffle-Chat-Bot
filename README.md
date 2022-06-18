@@ -5,7 +5,7 @@ This is a bot for chat memebers to create tasks. Every completed task enters the
 pip install -U twitchio
 Must be python version 3.7+ (Or higher)
 
-# Customiza
+# Customize
 - You will have to rename the command to what you want inside of main.py 
 - @bot.command(name='task') <- Change what's inside of the ' ' to whatever you want the command to be called
 
