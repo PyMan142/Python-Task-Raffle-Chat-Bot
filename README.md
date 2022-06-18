@@ -7,10 +7,10 @@ Must be python version 3.7+ (Or higher)
 
 # User Commands
 - !help - List all commands for the users
-- !task [title] - Create a new task - This also enters you into the raffle!
+- !task [title] - Create a new task 
 - !active - Lists your active tasks
 - !alldone - Complete ALL of your active tasks
-- !complete [id]- Complete the task by targeting the id of it
+- !complete [id]- Complete the task by targeting the id of it - This also enters you into the raffle!
 - !completed - Lists your completed tasks
 - !delete [id]- Delete the task by targeting the id of it
 - !activefull - Lists your active tasks in full detail
