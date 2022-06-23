@@ -1,5 +1,5 @@
 # Python-Task-Raffle-Twitch-Bot
-This is a bot for chat members to create tasks. Every completed task enters the user into a raffle. You can run the !pickwinner command to pick a winner from the list of users that have completed a task. 
+This is a bot for chat users to create tasks. Every completed task enters the user into a raffle. You can run the !pickwinner command to pick a winner from the list of users that have completed a task. 
 
 # Setup
 pip install -U twitchio
